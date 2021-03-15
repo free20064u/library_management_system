@@ -1,0 +1,27 @@
+
+.container {
+    text-align: center;
+}
+.fa {
+    color:#955e99;
+}
+
+.login-container {
+    padding: 5%;
+    background-color: #955e99;
+    border-radius: 15px;
+}
+
+.footer-container {
+    background-color: #955e99;
+}
+
+.btn-lg {
+    margin:10px;
+    width: 300px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
