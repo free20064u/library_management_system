@@ -133,7 +133,7 @@ function get_book_title($book_id){
 
 
 
-//function to update book information.
+//function to update book information in database.
 function update_book(){}
 
 //function to insert borrower info into book when a book is borrowed.
